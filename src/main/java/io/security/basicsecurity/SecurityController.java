@@ -26,4 +26,9 @@ public class SecurityController {
         return "admin";
     }
 
+//    @GetMapping("/login")
+//    public String login() {
+//        return "login";
+//    }
+
 }
